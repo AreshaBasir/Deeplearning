@@ -1,6 +1,6 @@
 # SPG
 <br>
-My first project
+My first project--App Development
 <br>
 Author-Aresha Basir Spriha
 <br>
